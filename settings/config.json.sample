@@ -1,6 +1,6 @@
 {
-  "token": "",
-  "cmd_prefix": ">",
-  "customcmd_prefix": ".",
-  "bot_identifier": ":robot:"
+  "token": "BQCIbuZILDzr0R8zoOmAZVzqvuV2x2QaA3uOuSC0cD3Ui1Wr484Wxqgyv-AG7Dlh11fXQpwhttujgvYhfQHxsTEnmZJ27kkutbfLtSu9Guy6yTfqgD25AWyW3R6nyVdrA2KLqEcVhWDs94xXucA-Vu8DCuMVlbqooHHPGy_JqdufFzDVkE4tzUz5sQ",
+  "cmd_prefix": ".",
+  "customcmd_prefix": "!",
+  "bot_identifier": ":heart:"
 }
